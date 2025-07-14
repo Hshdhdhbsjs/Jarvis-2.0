@@ -1,0 +1,3 @@
+# api_key.py
+
+API_KEY = "sk_af4762c9edd377778b96b7a41e686ff66e2e315525236850"
